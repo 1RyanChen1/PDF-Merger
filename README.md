@@ -15,6 +15,6 @@ For normal user
 -Download PDFMergerGui.exe and run locally, no python/library installation required
 
 For developers / running from source
--Make sure you have python 3.x and pypdf installed
+- Make sure you have python 3.x and pypdf installed
 - Install dependency:  
   pip install pypdf
